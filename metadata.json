@@ -1,0 +1,6 @@
+{
+  "name": "Zombie Survival 16-Bit",
+  "description": "A 16-bit pixel art style top-down zombie survival shooter with canvas rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
